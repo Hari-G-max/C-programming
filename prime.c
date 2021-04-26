@@ -16,7 +16,7 @@ int main()
         c++;
       }
     }
-    if(c<=2)
+    if(c==2)
     {
       printf("The number %d is a prime number\n\n",n);
     }

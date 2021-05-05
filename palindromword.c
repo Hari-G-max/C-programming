@@ -1,3 +1,4 @@
+//To check a given word is palindrom or not
 #include<stdio.h>
 int main()
 {

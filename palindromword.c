@@ -18,6 +18,7 @@ int main()
       printf("%c\t",a[i]);
       d++;
     }
+    //reversing the given word
     printf("\n\nnumber of characters in %s is %d\n",a,d);
     i=0;
     for(j=(d-1);j>=0;j--)
@@ -35,6 +36,7 @@ int main()
       printf("%c\t",b[i]);
     }
     printf("\n\n");
+    //checking the word is palindrom or not
     for(i=0;i<d;i++)
     {
       if(b[i]==a[i])

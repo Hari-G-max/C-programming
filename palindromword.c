@@ -72,7 +72,6 @@ int main()
       {
         printf("invalide choice\n");
         z=0;
-        choice='d';
       }
     }
     while(z==0);

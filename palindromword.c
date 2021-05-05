@@ -29,7 +29,7 @@ int main()
       }
       i++;
     }
-    printf("\n\nrevers of the %s is : ",a);
+    printf("\n\nrevers of the word %s is : ",a);
     for(i=0;i<d;i++)
     {
       printf("%c\t",b[i]);
